@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=Hypr Grid
+Comment=Window grid manager for Hyprland
+Exec=hypr-grid-manager
+Icon=hypr-grid-manager
+Terminal=false
+Categories=Utility;
+Keywords=hyprland;window manager;grid;
